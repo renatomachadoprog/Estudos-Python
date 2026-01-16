@@ -38,3 +38,7 @@ def manterpeso(x,y,z):
 
 gastocaloricoT, valorproteinas, valorgorduras, valorcarboidratos = manterpeso(peso,altura,idade)
 print(f"com um gasto de {gastocaloricoT}, voce precisa de {valorproteinas} gramas de proteinas, {valorgorduras} gramas de gordura e {valorcarboidratos} gramas de carboidrato para manter seu peso atual")
+
+
+# é um teste de versionamento de Git
+
